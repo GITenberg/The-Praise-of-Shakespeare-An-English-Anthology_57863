@@ -1,10 +1,13 @@
 _repo: The-Praise-of-Shakespeare-An-English-Anthology_57863
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   compiler:
     agent_name: Hughes, C. E.
     gutenberg_agent_id: '49656'
     url: http://www.gutenberg.org/2009/agents/49656
+covers:
+- cover_type: archival
+  image_path: 57863-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57863#The-Praise-of-Shakespeare-An-English-Anthology
 gutenberg_issued: '2018-09-07'
 gutenberg_type: Text
 identifiers:
